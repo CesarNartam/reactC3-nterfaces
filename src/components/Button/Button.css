@@ -1,0 +1,35 @@
+.button {
+    border: 0;
+
+    height: 32px;
+    border-radius: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primary-button {   
+    background: #2567FF;
+    color: #FFFFFF;
+}
+
+.secondary-button {
+    background: #3F8EFC;
+    color: #FFFFFF;
+}
+
+.danger-button {
+    background: #DD1D19;
+    color: #FFFFFF;
+}
+
+.warning-button {
+    background: #F1C70B;
+    color: #FFFFFF;
+}
